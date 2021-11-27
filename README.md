@@ -25,6 +25,8 @@ Projects with over 500 stargazers are in bold.
 * [Pinyin Analysis for OpenSearch](https://github.com/aparo/opensearch-analysis-pinyin): This Pinyin Analysis plugin is used to do conversion between Chinese characters and Pinyin. Port of https://github.com/medcl/elasticsearch-analysis-pinyin
 * [Prometheus Exporter Plugin](https://github.com/aparo/opensearch-prometheus-exporter): This is a builtin exporter from OpenSearch to *Prometheus* based on the code of Vincent Van Hollebeke and others at https://github.com/vvanholl/elasticsearch-prometheus-exporter . It collects all relevant metrics and makes them available to Prometheus via the OpenSearch REST API. 
 * [Learning to Rank Plugin](https://github.com/aparo/opensearch-learning-to-rank): This is a port of https://github.com/o19s/elasticsearch-learning-to-rank to work with OpenSearch. It's a rewrite of some parts to be able to work with OpenSearch.
+* [STConvert Analysis](https://github.com/aparo/opensearch-analysis-stconvert): STConvert is analyzer that convert Chinese characters between Traditional and Simplified. Port of https://github.com/medcl/elasticsearch-analysis-stconvert
+
 
 
 ## Tools

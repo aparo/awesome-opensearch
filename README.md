@@ -19,7 +19,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Plugins
 
-* [IK Analysis for OpenSearch](): The IK Analysis plugin integrates Lucene IK analyzer (http://code.google.com/p/ik-analyzer/) into opensearch, support customized dictionary. This is a port of [medcl's IK Analysis](https://github.com/medcl/elasticsearch-analysis-ik).
+* [IK Analysis for OpenSearch](https://github.com/aparo/opensearch-analysis-ik): The IK Analysis plugin integrates Lucene IK analyzer (http://code.google.com/p/ik-analyzer/) into opensearch, support customized dictionary. This is a port of [medcl's IK Analysis](https://github.com/medcl/elasticsearch-analysis-ik).
 * [OpenNLP Ingest Processor](https://github.com/aparo/opensearch-ingest-opennlp): This processor is doing named/date/location/'whatever you have a model for' entity recognition and stores the output in the JSON before it is being stored. This is a port of [spinscale's Elasticserch OpenNLP ingest plugin](https://github.com/spinscale/elasticsearch-ingest-opennlp).
 * [Langdetect Ingest Processor](https://github.com/aparo/opensearch-ingest-langdetect): Ingest processor doing language detection for fields. Port of https://github.com/spinscale/elasticsearch-ingest-langdetect
 * [Pinyin Analysis for OpenSearch](https://github.com/aparo/opensearch-analysis-pinyin): This Pinyin Analysis plugin is used to do conversion between Chinese characters and Pinyin. Port of https://github.com/medcl/elasticsearch-analysis-pinyin
